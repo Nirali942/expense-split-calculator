@@ -16,6 +16,22 @@ This project allows users to enter the total expense amount and number of people
 
 ✔️ Built using React 18
 
+
+🏗️ System Architecture
+
+The application follows a Frontend-Only Client-Side Architecture.
+
+High-Level Architecture
+
+User interacts with the browser
+
+React handles state and logic
+
+Virtual DOM updates the UI dynamically
+
+Result is rendered instantly
+
+
 🛠️ Tech Stack
 
 Frontend: React.js

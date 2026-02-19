@@ -25,6 +25,7 @@ Styling: CSS3
 Build Tool: react-scripts
 
 📂 Project Structure
+
 expense-split-calculator/
 │
 ├── public/
@@ -57,7 +58,7 @@ npm start
 
 The app will run at:
 
-http://localhost:3000
+ localhost
 
 📸 How It Works
 

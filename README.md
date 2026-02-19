@@ -24,20 +24,6 @@ Styling: CSS3
 
 Build Tool: react-scripts
 
-📂 Project Structure
-
-expense-split-calculator/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-│
-├── package.json
-└── README.md
 
 ⚙️ Installation & Setup
 
